@@ -1,3 +1,6 @@
+Fork of expressjs/session that allows you to not sign the cookie, allowing the use of 
+php sessions. (PHP doesnt seem to allow you to change its session cookie to sign it)
+
 # express-session
 
 [![NPM Version][npm-image]][npm-url]
